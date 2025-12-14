@@ -1,0 +1,7 @@
+totion
+go.sum
+*.sh
+
+.vscode
+.single-file
+dist
