@@ -4,6 +4,9 @@ Totion is a terminal-based note management application written in Go using Bubbl
 
 The project follows a clean internal package layout and separates TUI logic, filesystem access, styles, and utilities.
 
+## Video Demo
+<a href="https://drive.google.com/file/d/1mBszkWEyN2DRyvJOqYN6ik5yBnsGGICQ/view?usp=sharing">Click Here</a><br>
+
 ## Features
 
 * Create new Markdown notes
